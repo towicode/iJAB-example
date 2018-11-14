@@ -4,3 +4,4 @@
 
 pip install jupyterlab_irods==2.0.0
 jupyter labextension install ijab@2.0.0
+jupyter serverextension enable --py jupyterlab_irods
