@@ -1,5 +1,6 @@
 traitlets>=4.3.1
 ipython
 pandas
+jupyterlab_irods==2.0.0
 vdom
 jupyterlab_launcher>=0.5.0
